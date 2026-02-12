@@ -38,7 +38,7 @@
 
 ### 🐍 Contribuições (Snake Game)
 <div align="center">
-  <img src="https://github.com/RebeccaSilvaDev/RebeccaSilvaDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RebeccaSilvaDev/RebeccaSilvaDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

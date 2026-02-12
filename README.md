@@ -30,8 +30,8 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-github-readme-stats-sigma-five.vercel.app/api?username=RebeccaSilvaDev&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RebeccaSilvaDev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebeccaSilvaDev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RebeccaSilvaDev&theme=tokyonight" />
 </div>
 
 ---
